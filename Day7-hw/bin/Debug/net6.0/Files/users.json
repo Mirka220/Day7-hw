@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "FirstName": "Jhon",
+    "LastName": "Smith",
+    "Region": "NY",
+    "BirthDate": "1995/04/23",
+    "WorkPlace": "Google NY",
+    "Position": "Software Developer"
+  },
+  {
+    "id": 2,
+    "FirstName": "Almat",
+    "LastName": "Rakhym",
+    "Region": "ALA",
+    "BirthDate": "1992/12/03",
+    "WorkPlace": "Prime Source",
+    "Position": "Software Tester"
+  },
+  {
+    "id": 3,
+    "FirstName": "Aleksandr",
+    "LastName": "Smirnov",
+    "Region": "AST",
+    "BirthDate": "1996/10/20",
+    "WorkPlace": "Epam KZ",
+    "Position": "Back-end Developer"
+  },
+  {
+    "id": 4,
+    "FirstName": "Paul",
+    "LastName": "Walker",
+    "Region": "FRN",
+    "BirthDate": "1999/02/12",
+    "WorkPlace": "Amazon",
+    "Position": "Full-Stack Developer"
+  },
+  {
+    "id": 5,
+    "FirstName": "Dos",
+    "LastName": "Qairat",
+    "Region": "UKA",
+    "BirthDate": "1997/01/14",
+    "WorkPlace": "Booking",
+    "Position": "Front-End Developer"
+  }
+]
